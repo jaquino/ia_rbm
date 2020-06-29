@@ -6,6 +6,7 @@ las Máquinas de Boltzmann Restringidas (RBM).
 
 ## Fuentes:
 - Repositorio: https://github.com/jaquino/ia_rbm
+- Preview: https://jaquino.github.io/ia_rbm/
 - Datasets:
     - https://grouplens.org/datasets/movielens/100k/
     - https://grouplens.org/datasets/movielens/1m/
