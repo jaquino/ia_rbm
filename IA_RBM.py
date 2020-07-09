@@ -8,8 +8,6 @@
 import numpy as np
 import pandas as pd
 import torch
-import torch.nn.parallel
-import torch.utils.data
 
 # ## Importando datasets
 movies = pd.read_csv(
